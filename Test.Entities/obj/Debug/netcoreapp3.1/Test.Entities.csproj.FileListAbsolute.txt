@@ -1,0 +1,9 @@
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\bin\Debug\netcoreapp3.1\Test.Entities.deps.json
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\bin\Debug\netcoreapp3.1\Test.Entities.dll
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\bin\Debug\netcoreapp3.1\Test.Entities.pdb
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\obj\Debug\netcoreapp3.1\Test.Entities.csprojAssemblyReference.cache
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\obj\Debug\netcoreapp3.1\Test.Entities.AssemblyInfoInputs.cache
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\obj\Debug\netcoreapp3.1\Test.Entities.AssemblyInfo.cs
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\obj\Debug\netcoreapp3.1\Test.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\obj\Debug\netcoreapp3.1\Test.Entities.dll
+C:\Users\Elgiz\Documents\C#\Test\Test.Entities\obj\Debug\netcoreapp3.1\Test.Entities.pdb

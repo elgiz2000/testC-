@@ -1,0 +1,15 @@
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\bin\Debug\netcoreapp3.1\Test.Entities.dll
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\obj\Debug\netcoreapp3.1\Test.DataAccess.csprojAssemblyReference.cache
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\obj\Debug\netcoreapp3.1\Test.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\obj\Debug\netcoreapp3.1\Test.DataAccess.AssemblyInfo.cs
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\bin\Debug\netcoreapp3.1\Test.DataAccess.deps.json
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\bin\Debug\netcoreapp3.1\Test.DataAccess.runtimeconfig.json
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\bin\Debug\netcoreapp3.1\Test.DataAccess.runtimeconfig.dev.json
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\bin\Debug\netcoreapp3.1\Test.DataAccess.dll
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\bin\Debug\netcoreapp3.1\Test.DataAccess.pdb
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\bin\Debug\netcoreapp3.1\Test.Entities.pdb
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\obj\Debug\netcoreapp3.1\Test.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\obj\Debug\netcoreapp3.1\Test.DataAccess.csproj.CopyComplete
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\obj\Debug\netcoreapp3.1\Test.DataAccess.dll
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\obj\Debug\netcoreapp3.1\Test.DataAccess.pdb
+C:\Users\Elgiz\Documents\C#\Test\Test.DataAccess\obj\Debug\netcoreapp3.1\Test.DataAccess.genruntimeconfig.cache
