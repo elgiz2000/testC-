@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Test.DataAccess.Abstract;
 using Test.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Linq;
+
 namespace Test.DataAccess.Concrete
 {
     public class TestRepository : ITestRepository
@@ -25,6 +27,22 @@ namespace Test.DataAccess.Concrete
             {
                 return await testDbContext.Dogs.ToListAsync();
             }
+        }
+        public async Task<Dog> GetDog(int id)
+        {
+            using (var testDbContext = new TestDbContext())
+            {
+                return await testDbContext.Dogs.FindAsync(id);
+            }
+        }
+
+        public async Task<Dog> GetDogByName(string name)
+        {
+            using (var testDbContext = new TestDbContext())
+            {
+                return await testDbContext.Dogs.Where(x => x.Name == name).FirstOrDefaultAsync(); 
+            }
+
         }
     }
 }

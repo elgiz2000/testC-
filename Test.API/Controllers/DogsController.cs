@@ -90,9 +90,14 @@ namespace Test.API.Controllers
         [HttpPost("/dog")]
         public async Task<IActionResult> Post([FromBody] Dog dog)
         {
-            if (dog.Tail_length <= 0 ) return NotFound("Invalid request");
+            var item= await _testRepository.GetDogByName(dog.Name);
+            if (item == null && dog.Tail_length>0 && ModelState.IsValid )
+            {
                 var createdDog = await _testRepository.CreateDog(dog);
                 return CreatedAtAction("Get", new { id = createdDog.Id }, createdDog);
+            }
+            else return NotFound("Invalid request");
+               
 
 
         }
